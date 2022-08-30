@@ -1,18 +1,19 @@
 body {
-	background: #CCCCCC
-} 
+	background: #F0ba71} 
 
-h1{
-	display: inline-block;
-text-align: center;
+#endereco{
+
+width: 100%;
+
 }
 
 h2{display: inline-block;
-text-align: center;}
+text-align: center;
+}
 
 
 #logo {
-    width: 25%;
+    width:150px;
 }
 
 p {
@@ -32,4 +33,4 @@ em strong {
 #imagem2{
 	width: 250px;
 	height: 250px;}
-
+.
