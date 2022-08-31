@@ -1,17 +1,35 @@
 body {
 	background: #F0ba71} 
 
-#endereco{
-
-width: 100%;
-
+p {
+	text-align: center;
 }
 
 
-
-h2{display: inline-block;
+h1{
+	
 text-align: center;
+border: dotted #b1411e;
+
 }
+
+h2{ display: inline-block;
+font-size: 25px;
+text-align: center;
+color: #b1411e;
+ }
+
+ul{ 
+	display: inline-block; 
+	font-size: 15px;
+
+			}
+
+
+em strong {
+	color: #FF0000; 
+}
+
 
 
 #logo {
@@ -20,46 +38,44 @@ text-align: center;
    margin-left: 600px;
 }
 
-p {
-	text-align: center;
-}
-
-ul{ 
-	display: inline-block; 
-	font-size: 15px;
-
-			}
-
-.lista {
-	display: inline-block;
-    width: 40%;
-     
-	 }
-
-
- em strong {
-	color: #FF0000; 
+#endereco{
+width: 100%;
 }
 
 
 #imagem1{ 
+	width: 50px;
 	height: 50px;
 }
+
+
+.lista {
+	display: inline-block;
+    width: 40%;
+    margin-left: 100px;
+     
+	 }
+
+.foto{
+	display: inline-block;
+	width: 50%;
+	text-align: center;
+}
+
 
 .imagem2{
     display: inline-block;
     width: 600px;
     margin-right: 0px;
-   
+  
 
 }
 
-
-	h1{
-	
-text-align: center;
-border: dotted #b1411e;
-
+#video {
+	width: 50%;
+	height: 50%;
+	text-align: center;
+	margin-left: 350px;
 }
 
 li::marker{ 
@@ -67,12 +83,6 @@ li::marker{
 color: red;
 font size: 20px;}
 
-h2{ 
-font-size: 25px;
-text-align: center;
-color: #b1411e;
-
- }
 
 footer{
 	text-align: center;
