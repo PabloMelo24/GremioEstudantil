@@ -3,7 +3,7 @@ body {
 }
 
 p {
-	text-align: center;
+	text-align: justify;
 }
 
 
@@ -63,7 +63,7 @@ footer {
 
 #video {
 	text-align: center;
-	margin-left: 350px;
+	margin-left: 300px;
 
 }
 
