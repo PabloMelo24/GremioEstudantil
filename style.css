@@ -1,5 +1,5 @@
 body {
-	background: #F0ba71
+	background: #F0ba71;
 }
 
 p {
@@ -27,10 +27,6 @@ ul {
 
 em strong {
 	color: #FF0000;
-}
-
-li::marker {
-	
 }
 
 footer {
@@ -66,6 +62,13 @@ footer {
 	border: double orangered;
 	padding: 20px;
 	content: "\263B" color: red	font size: 20px;
+}
+
+.lista2 {
+	display: inline-block;
+	vertical-align: top;
+	padding: 20px;
+	content: "\2738" color: #F0ba71	font size: 20px;
 }
 
 .foto {
