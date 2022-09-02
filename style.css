@@ -22,7 +22,7 @@ h2 {
 ul {
 	display: inline-block;
 	font-size: 15px;
-	}
+}
 
 
 em strong {
@@ -37,7 +37,7 @@ footer {
 #logo {
 	width: 150px;
 	display: inline-block;
-	margin-left: 550px;
+	margin-left: 600px;
 }
 
 #endereco {
@@ -61,7 +61,6 @@ footer {
 	vertical-align: top;
 	border: double orangered;
 	padding: 20px;
-	content: "\263B" color: red	font size: 25px;
 }
 
 .foto {
@@ -77,3 +76,8 @@ footer {
 	height: 440px;
 	margin-right: 10px;
 }
+
+li::marker {
+	content: "\263B";
+	color: red;
+	font size: 20px;
