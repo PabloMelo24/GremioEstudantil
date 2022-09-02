@@ -61,14 +61,7 @@ footer {
 	vertical-align: top;
 	border: double orangered;
 	padding: 20px;
-	content: "\263B" color: red	font size: 20px;
-}
-
-.lista2 {
-	display: inline-block;
-	vertical-align: top;
-	padding: 20px;
-	content: "\2734" color: #F0ba71 font size: 30px;
+	content: "\263B" color: red	font size: 25px;
 }
 
 .foto {
