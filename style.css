@@ -47,7 +47,7 @@ footer {
 #logo {
 	width: 150px;
 	display: inline-block;
-	margin-left: 500px;
+	margin-left: 550px;
 }
 
 #endereco {
@@ -66,14 +66,12 @@ footer {
 
 }
 
-
 .lista {
 	display: inline-block;
 	vertical-align: top;
 	border: double orangered;
 	padding: 20px;
-
-
+	content: "\263B" color: red	font size: 20px;
 }
 
 .foto {
@@ -82,13 +80,10 @@ footer {
 	text-align: center;
 }
 
-
 .imagem2 {
 	display: inline-block;
 	border: double orangered;
 	width: 600px;
 	height: 440px;
 	margin-right: 10px;
-
-
 }
