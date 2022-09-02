@@ -24,13 +24,7 @@ h2 {
 ul {
 	display: inline-block;
 	font-size: 15px;
-	li::marker {
-		content: "\263B";
-		color: red;
-		font size: 20px;
 	}
-
-}
 
 
 em strong {
@@ -39,6 +33,11 @@ em strong {
 
 }
 
+li::marker {
+	content: "\263B";
+	color: red;
+	font size: 20px;
+}
 
 footer {
 	text-align: center;
